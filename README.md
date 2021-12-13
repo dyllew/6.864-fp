@@ -4,7 +4,7 @@
 ## Information Extraction and Unsupervised Methods for Streamlining Evidence Synthesis in International Development Grey Literature
 #### Authors: Kristen Edwards, Jack Gammack, Luis Kumanduri,  Dylan Lewis
 
-###### Please find the Final Report and Final Presentation of our finding in this [folder.](https://github.com/dyllew/6.864-fp/tree/main/docs)
+###### Please find the Final Report and Final Presentation of our findings in this [folder.](https://github.com/dyllew/6.864-fp/tree/main/docs)
 
 ###### The code for Country of Study Extraction can be found [here.](https://github.com/dyllew/6.864-fp/blob/main/country_NER/country_NER.ipynb)
 
